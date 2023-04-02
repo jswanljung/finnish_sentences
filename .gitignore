@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+*.py[cod]
+*.egg
+build
+htmlcov
+audio/
+bin/
+include/
+lib/
+__pycache__
+*.mp3
+*.cfg
